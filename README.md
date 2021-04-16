@@ -9,3 +9,5 @@ Acknowlegements
 ---------------
 
 This code is heavily inspired by one of the examples in Martin Fowler's book "Refactoring". It's a classic, and if it's not on your bookshelf already I suggest you treat yourself to a copy!
+
+![Parrot Kata in Kotlin](Parrot.png)
